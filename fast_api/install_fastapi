@@ -1,0 +1,14 @@
+
+Для установки FastAPI нам понадобится следующее:
+
+	pip install "fastapi[all]"
+
+	pip install alembic
+
+	pip install alchemy
+
+	pip install psycopg2-binary
+
+	pip install asyncpg - асинхронный драйвер для работы с psycopg2
+
+	

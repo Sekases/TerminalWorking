@@ -1,0 +1,20 @@
+
+Django:
+
+	Для старта нашего проекта, нам необходимо исп. терминальную команду:
+
+		django-admin startproject nameprogect
+
+	Для миграции в jango мы исп. след. терминалбную коианду:
+
+		python manage.py migrate
+
+	Для создания суперпользователя:
+
+		python manage.py createsuperuser
+
+	Для создания нового приложения:
+
+		python manage.py startapp nameapp
+
+	
